@@ -1,0 +1,15 @@
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.csproj.AssemblyReference.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.AssemblyInfoInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.AssemblyInfo.cs
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.csproj.CoreCompileInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\bin\Debug\net6.0\slutövning.exe
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\bin\Debug\net6.0\slutövning.deps.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\bin\Debug\net6.0\slutövning.runtimeconfig.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\bin\Debug\net6.0\slutövning.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\bin\Debug\net6.0\slutövning.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\refint\slutövning.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\slutövning.genruntimeconfig.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\slutövning\obj\Debug\net6.0\ref\slutövning.dll
